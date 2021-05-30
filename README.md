@@ -1,13 +1,14 @@
 # ProperPrint
-<img src="https://img.shields.io/badge/project%20stage-alpha-yellow"/>
-<img src="https://img.shields.io/github/license/PentagonLP/properprint"/>
-<img src="https://img.shields.io/github/issues/PentagonLP/properprint"/><br>
-<img src="https://img.shields.io/github/contributors/PentagonLP/properprint"/>
-<img src="https://img.shields.io/github/commit-activity/m/PentagonLP/properprint"/>
-<img src="https://img.shields.io/github/last-commit/PentagonLP/properprint"/><br>
-<img src="https://img.shields.io/github/languages/code-size/PentagonLP/properprint"/>
-<img src="https://img.shields.io/github/directory-file-count/PentagonLP/properprint"/>
-<img src="https://img.shields.io/github/languages/count/PentagonLP/properprint"/><br>
+![projectstage](https://img.shields.io/badge/project%20stage-alpha-yellow)
+![projectstage](https://img.shields.io/badge/version-1.0-yellow)
+[![license](https://img.shields.io/github/license/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/blob/main/LICENSE)
+[![issues](https://img.shields.io/github/issues/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/issues)<br>
+[![contributors](https://img.shields.io/github/contributors/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/graphs/contributors)
+[![activity](https://img.shields.io/github/commit-activity/m/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/commits/main)
+[![lastcommit](https://img.shields.io/github/last-commit/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/commits/main)<br>
+![size](https://img.shields.io/github/languages/code-size/PentagonLP/properprint)
+![files](https://img.shields.io/github/directory-file-count/PentagonLP/properprint)
+![languages](https://img.shields.io/github/languages/count/PentagonLP/properprint)<br>
 
 Library for the minecraft mod **ComputerCraft/CC: Tweaked** to print in terminal with indentation  
 
@@ -50,6 +51,6 @@ Output:
 /><br>
 ## Last words
 Well, thats basicly all there is to say! This library is very small, but it is what it is. If you find bugs, please report them so I can fix them.  
-This is my first time publishing something on github, so feel free to point out things I could do better. Also, english is not my first language, so if you've found any spelling/language-related mistakes, please tell me.  
+This is my first time publishing something on github, so feel free to point out things I could do better. Also, english is not my first language, so if you find any spelling/language-related mistakes, please tell me.  
 Have a nice day,  
 PentagonLP
