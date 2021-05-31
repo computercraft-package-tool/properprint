@@ -1,0 +1,13 @@
+{   
+	name = "ProperPrint",
+	comment = "Printing Library to print in console",
+	author = "PentagonLP",
+	website = "https://github.com/PentagonLP/properprint/",
+	newestversion = "1.1",
+	install = {
+		url = "https://raw.githubusercontent.com/PentagonLP/properprint/main/properprint",
+		filename = "properprint",
+		type = "library",
+	},
+	dependencies = {},
+}
