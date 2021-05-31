@@ -13,7 +13,8 @@
 Library for the minecraft mod **ComputerCraft/CC: Tweaked** to print in terminal with indentation  
 
 ## How to install 
-At the moment, your only option is to download the 'properprint' file and paste it in your computers working directory. Don't worry, better ways to do that will follow and are currently in developement.
+At the moment, your only option is to download the 'properprint' file and paste it in your computers working directory. Don't worry, better ways to do that will follow and are currently in developement.  
+Please ignore packageinfo.ccpt for now, thats for yet another project that isn't public yet.
 
 ## How to use
 1. As shown here, when using the function **properprint.pprint([texttoprint])**, every line from the second line onwards has one space of indentation.
