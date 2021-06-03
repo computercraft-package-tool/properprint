@@ -13,8 +13,17 @@
 Library for the minecraft mod **ComputerCraft/CC: Tweaked** to print in terminal with indentation  
 
 ## How to install 
-At the moment, your only option is to download the 'properprint' file and paste it in your computers working directory. Don't worry, better ways to do that will follow and are currently in developement.  
-Please ignore packageinfo.ccpt for now, thats for yet another project that isn't public yet.
+FileUtils can be installed using the [ComputerCraft Package Tool](https://github.com/PentagonLP/ccpt) by using the following commands:
+
+Install CCPT, only run if you havn't installed it yet:
+```
+pastebin run syAUmLaF
+```
+If you install CCPT, this library will also be installed as CCPT depends on it. The library has the ccpt ID "pprint":
+```
+ccpt info pprint
+```
+The library will now be stored in "/lib/properprint".
 
 ## How to use
 1. As shown here, when using the function **properprint.pprint([texttoprint])**, every line from the second line onwards has one space of indentation.
