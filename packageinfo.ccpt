@@ -3,7 +3,7 @@
 	comment = "Printing Library to print in console",
 	author = "CCPT",
 	website = "https://github.com/computercraft-package-tool/properprint/",
-	newestversion = "1.0",
+	newestversion = "1.1",
 	install = {
 		url = "https://raw.githubusercontent.com/computercraft-package-tool/properprint/main/properprint",
 		filename = "properprint",
