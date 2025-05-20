@@ -1,11 +1,11 @@
 {   
 	name = "ProperPrint",
 	comment = "Printing Library to print in console",
-	author = "PentagonLP",
-	website = "https://github.com/PentagonLP/properprint/",
+	author = "CCPT",
+	website = "https://github.com/computercraft-package-tool/properprint/",
 	newestversion = "1.0",
 	install = {
-		url = "https://raw.githubusercontent.com/PentagonLP/properprint/main/properprint",
+		url = "https://raw.githubusercontent.com/computercraft-package-tool/properprint/main/properprint",
 		filename = "properprint",
 		type = "library",
 	},

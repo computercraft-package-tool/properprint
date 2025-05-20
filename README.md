@@ -1,19 +1,19 @@
 # ProperPrint
 ![projectstage](https://img.shields.io/badge/project%20stage-alpha-yellow)
 ![projectstage](https://img.shields.io/badge/version-1.0-yellow)
-[![license](https://img.shields.io/github/license/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/blob/main/LICENSE)
-[![issues](https://img.shields.io/github/issues/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/issues)<br>
-[![contributors](https://img.shields.io/github/contributors/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/graphs/contributors)
-[![activity](https://img.shields.io/github/commit-activity/m/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/commits/main)
-[![lastcommit](https://img.shields.io/github/last-commit/PentagonLP/properprint)](https://github.com/PentagonLP/properprint/commits/main)<br>
-![size](https://img.shields.io/github/languages/code-size/PentagonLP/properprint)
-![files](https://img.shields.io/github/directory-file-count/PentagonLP/properprint)
-![languages](https://img.shields.io/github/languages/count/PentagonLP/properprint)<br>
+[![license](https://img.shields.io/github/license/computercraft-package-tool/properprint)](https://github.com/computercraft-package-tool/properprint/blob/main/LICENSE)
+[![issues](https://img.shields.io/github/issues/computercraft-package-tool/properprint)](https://github.com/computercraft-package-tool/properprint/issues)<br>
+[![contributors](https://img.shields.io/github/contributors/computercraft-package-tool/properprint)](https://github.com/computercraft-package-tool/properprint/graphs/contributors)
+[![activity](https://img.shields.io/github/commit-activity/m/computercraft-package-tool/properprint)](https://github.com/computercraft-package-tool/properprint/commits/main)
+[![lastcommit](https://img.shields.io/github/last-commit/computercraft-package-tool/properprint)](https://github.com/computercraft-package-tool/properprint/commits/main)<br>
+![size](https://img.shields.io/github/languages/code-size/computercraft-package-tool/properprint)
+![files](https://img.shields.io/github/directory-file-count/computercraft-package-tool/properprint)
+![languages](https://img.shields.io/github/languages/count/computercraft-package-tool/properprint)<br>
 
 Library for the minecraft mod **ComputerCraft/CC: Tweaked** to print in terminal with indentation  
 
 ## How to install 
-FileUtils can be installed using the [ComputerCraft Package Tool](https://github.com/PentagonLP/ccpt) by using the following commands:
+FileUtils can be installed using the [ComputerCraft Package Tool](https://github.com/computercraft-package-tool/ccpt) by using the following commands:
 
 Install CCPT, only run if you havn't installed it yet:
 ```
@@ -35,7 +35,7 @@ properprint.pprint("The quick brown fox jumps over the lazy dog. He broke his le
 Output:
 <br><img
     alt="test1"
-    src="https://raw.githubusercontent.com/PentagonLP/properprint/main/img/properprint_test.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/properprint/main/img/properprint_test.png"
 /><br>  
 2. As shown here, when using the function **properprint.pprint([texttoprint],[indentation])**, every line from the second line onwards still has one space more of indentation, but every line has the specified amount of spaces as indentation added by default.
 <br>Content of '*test2*':
@@ -46,7 +46,7 @@ properprint.pprint("The quick brown fox jumps over the lazy dog. He broke his le
 Output:
 <br><img
     alt="test2"
-    src="https://raw.githubusercontent.com/PentagonLP/properprint/main/img/properprint_test2.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/properprint/main/img/properprint_test2.png"
 /><br>
 3. As shown here, you can use the function **getLastCharPosition([haystack],[needle])** to find the last position of a character in a string. Though that's not the main purpose of the library and appeared more as a helper function, maybe it's useful to you.
 <br>Content of '*test3*':
@@ -57,7 +57,7 @@ print(properprint.getLastCharPosition("So long, and thanks for all the fish!","l
 Output:
 <br><img
     alt="test2"
-    src="https://raw.githubusercontent.com/PentagonLP/properprint/main/img/properprint_test3.png"
+    src="https://raw.githubusercontent.com/computercraft-package-tool/properprint/main/img/properprint_test3.png"
 /><br>
 ## Last words
 Well, thats basicly all there is to say! This library is very small, but it is what it is. If you find bugs, please report them so I can fix them.  
