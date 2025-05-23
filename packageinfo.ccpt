@@ -5,7 +5,7 @@
 	website = "https://github.com/computercraft-package-tool/properprint/",
 	newestversion = "1.0",
 	install = {
-		url = "https://raw.githubusercontent.com/computercraft-package-tool/properprint/main/properprint",
+		url = "https://github.com/computercraft-package-tool/properprint/releases/download/v1.0/properprint.lua",
 		filename = "properprint",
 		type = "library",
 	},
