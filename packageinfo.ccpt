@@ -3,10 +3,10 @@
 	comment = "Printing Library to print in console",
 	author = "CCPT",
 	website = "https://github.com/computercraft-package-tool/properprint/",
-	newestversion = "1.0",
+	newestversion = "1.1",
 	install = {
-		url = "https://github.com/computercraft-package-tool/properprint/releases/download/v1.0/properprint.lua",
-		filename = "properprint",
+		url = "https://github.com/computercraft-package-tool/properprint/releases/download/v1.1/properprint.lua",
+		filename = "properprint.lua",
 		type = "library",
 	},
 	dependencies = {},
